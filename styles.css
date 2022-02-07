@@ -5,4 +5,8 @@ h3   {color: blue;}
 p    {color: red;}
 a    {color: blue;}
 
-.container ( width:75%;)
+.container 
+
+margin-left: auto;
+margin-right: auto;
+( width:75%;)
