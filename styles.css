@@ -1,6 +1,8 @@
 body {background-color: #0BF4BE;}
-h1   {color: #0B45F4;}
-h2   {color: #2C0BF4;}
+h1   {color: #ffffff;}
+     font-size: 20px;
+}
+h2   {color: #ffffff;}
 h3   {color: blue;}
 p    {color: red;}
 a    {color: blue;}
