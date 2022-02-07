@@ -15,6 +15,18 @@ width:75%;
 }
 
 header {
+  width: 100%;
+  float: left;
   background-color: #3119DB;
   padding: 40px;
+}
+
+.title {
+     width:25%;
+     display: inline-block;
+     float:left;
+{
+
+main {
+     clear: both;
 }
