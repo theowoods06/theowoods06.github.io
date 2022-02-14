@@ -1,4 +1,4 @@
-body {background-color: #ffffff;}
+body {background-color: #ffffff;
 font-family: 'Roboto';
 font-weight: 400;
 
@@ -10,7 +10,7 @@ h1   {color: #111111;
 h2   {color: #111111;
 font-size: 72px;
 font-weight: 700;
-
+}
 p    {color:#333333;}
 a    {color: blue;}
 
