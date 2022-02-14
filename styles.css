@@ -10,6 +10,7 @@ h1   {color: #111111;
 h2   {color: #111111;
 font-size: 90px;
 font-weight: 700;
+     width: 50%;
 }
 
 span {
@@ -18,6 +19,10 @@ span {
 }
 
 p    {color:#333333;}
+width: 50%;
+padding-bottom: 100px;
+
+}
 a    {color: blue;}
 
 .container 
@@ -77,4 +82,12 @@ footer {
      text-align: center;
      padding-bottom: 20px;
      padding-top:20px;
+}
+
+.redblock {
+     width: 100%;
+     height: 100px;
+     background-color: red;
+     
+     
 }
