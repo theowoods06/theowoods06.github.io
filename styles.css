@@ -1,17 +1,22 @@
-body {background-color: #ffffff;
-font-family: 'Roboto';
-font-weight: 400;
-     Margin: 0px;
+
+     body {background-color: #ffffff;
+     font-family: 'Roboto';
+     font-weight: 400;
+     margin: 0px;
 
 }
+
 h1   {color: #111111;
      font-size: 40px;
      font-weight: 700;
 }
+
 h2   {color: #111111;
-font-size: 90px;
-font-weight: 700;
+     font-size: 90px;
+     font-weight: 700;
      width: 80%;
+     margin:0px;
+
 }
 
 span {
@@ -20,24 +25,24 @@ span {
 }
 
 p    {color:#333333;
-width: 80%;
-padding-bottom: 100px;
+     width: 80%;
+     padding-bottom: 100px;
 
 }
 a    {color: blue;}
 
 .container 
 {
-margin-left: auto;
-margin-right: auto;
-width:75%;
+     margin-left: auto;
+     margin-right: auto;
+     width:75%;
 }
 
 header {
-  width: 100%;
-  float: left;
-  background-color: #ffffff;
-  padding-bottom: 100px;
+     width: 100%;
+     float: left;
+     background-color: #ffffff;
+     padding-bottom: 100px;
 }
 
 .title {
