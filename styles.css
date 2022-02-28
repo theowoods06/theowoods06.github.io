@@ -1,6 +1,7 @@
 body {background-color: #ffffff;
 font-family: 'Roboto';
 font-weight: 400;
+     Margin: 0px;
 
 }
 h1   {color: #111111;
@@ -10,7 +11,7 @@ h1   {color: #111111;
 h2   {color: #111111;
 font-size: 90px;
 font-weight: 700;
-     width: 50%;
+     width: 80%;
 }
 
 span {
@@ -19,7 +20,7 @@ span {
 }
 
 p    {color:#333333;
-width: 50%;
+width: 80%;
 padding-bottom: 100px;
 
 }
