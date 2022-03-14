@@ -122,3 +122,9 @@ code h6
 
      font-size: revert;
 }
+
+.learning-context h2 {
+     font-size: 28px;
+     font-weight: 300;
+     border-bottom: 1px solid #777777;
+}
