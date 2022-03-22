@@ -128,3 +128,9 @@ code h6
      font-weight: 300;
      border-bottom: 1px solid #777777;
 }
+
+.firstclass p {
+     background: #0647F9;
+     font-size:20px;
+     color: #ffffff;
+}
