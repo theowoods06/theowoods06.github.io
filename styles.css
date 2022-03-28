@@ -158,3 +158,21 @@ code h6
 .css5 {
      border-bottom: 1px dashed #000000;
 }
+
+.css6 {
+     border-width: 1px;
+     border-color: #0000000;
+     border-style: double;
+}
+
+.css7 {
+     border-bottom: 1px dashed #000000;
+     border-radius: 20px;
+}
+.css8 {
+     font-size: 40px;
+     font-style: oblique;
+     font-family: Arial;
+}
+
+
