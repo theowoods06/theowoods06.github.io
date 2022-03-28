@@ -138,3 +138,23 @@ code h6
 .secondclass p {
      text-decoration: underline;
 }
+
+.css1 {
+   color: #0647F9;
+}
+
+.css2 {
+     background: #f1f1f1;
+}
+
+.css3 {
+     border: 1px solid #000000;
+}
+
+.css4 {
+     border: 3px dotted #000000;
+}
+
+.css5 {
+     border-bottom: 1px dashed #000000;
+}
