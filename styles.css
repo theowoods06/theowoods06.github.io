@@ -179,3 +179,13 @@ code h6
      width: 100%;
      border-radius: 20px;
 }
+
+.padding01 {
+     background: #cccccc;
+     padding: 10px;
+}
+
+.margin01 {
+     background: #FF0000;
+     margin: 10px;
+}
