@@ -175,4 +175,7 @@ code h6
      font-family: Arial;
 }
 
-
+.moimage {
+     width: 75%;
+     height: 250px;
+}
