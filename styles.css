@@ -195,4 +195,44 @@ code h6
      margin-left: 20px;
      margin-right: 20px;
 }
+.one {
+     width:50%;
+     background:#ccc;
+     float: left;
 
+}
+.two {
+     width:50%;
+     background:#f00000;
+     float: left;
+     
+}
+.three {
+     width:33.33%;
+     background:#fff;
+     float: left;
+     padding:5px;
+     box-sizing:border-box;
+     
+}
+.four {
+     width:33.33%;
+     background:#fff;
+     float: left;
+     padding:5px;
+     box-sizing:border-box;
+     
+}
+.five {
+     width:33.33%;
+     background:#fff;
+     float: left;
+     padding:5px;
+     box-sizing:border-box;
+     
+}
+.container2 {
+     width:100%;
+     padding: 5px;
+     clear: both;
+}
