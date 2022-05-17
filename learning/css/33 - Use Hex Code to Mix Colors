@@ -1,1 +1,40 @@
 
+<!DOCTYPE html>
+<html> 
+<head>
+<title>Theo</title>
+
+<link rel="stylesheet" href="styles.css">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"; rel="stylesheet">
+  
+
+</head>
+<body>
+    
+  <style>
+  .red-text {
+    color: black;
+  }
+  .green-text {
+    color: black;
+  }
+  .dodger-blue-text {
+    color: black;
+  }
+  .orange-text {
+    color: black;
+  }
+</style>
+
+<h1 class="red-text">I am red!</h1>
+
+<h1 class="green-text">I am green!</h1>
+
+<h1 class="dodger-blue-text">I am dodger blue!</h1>
+
+<h1 class="orange-text">I am orange!</h1>
+    
+    
+    
+  </body>
+</html>
